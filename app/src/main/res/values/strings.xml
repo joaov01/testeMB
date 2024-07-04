@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CoinAppMB</string>
+    <string name="text_website">Website:</string>
+    <string name="text_start">Início:</string>
+    <string name="text_end">Fim:</string>
+    <string name="text_quote_start">Início da cotação:</string>
+    <string name="text_quote_end">Fim da cotação:</string>
+    <string name="text_orderbook_start">Início Order Book:</string>
+    <string name="text_orderbook_end">Fim Order Book:</string>
+    <string name="text_trade_start">Início da transação:</string>
+    <string name="text_trade_end">Fim da transação:</string>
+    <string name="text_symbols_count">Contagem de símbolos:</string>
+    <string name="text_volume_one_day_usd">Volume 1 dia $:</string>
+    <string name="text_volume_one_hour_usd">Volume 1 hrs $:</string>
+    <string name="text_volume_one_month_usd">Volume 1 mês $:</string>
+    <string name="text_title_list_cripto">Criptomoedas</string>
+    <string name="text_generic_error">Algo deu errado! Tente novamente mais tarde.</string>
+</resources>
